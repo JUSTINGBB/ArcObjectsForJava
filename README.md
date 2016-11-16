@@ -1,2 +1,2 @@
 # ArcObjectsForJava
-mapview and addlayout/removelayout
+develop arcgis by using ArcObjectsforJava
